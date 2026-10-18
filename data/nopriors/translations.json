@@ -1,0 +1,734 @@
+{
+"6fed676e-c84d-11f1-a40c-678dc1ca0b76": {
+"zh": "OpenAI 总裁 Greg Brockman：前沿模型正在改写网络安全与药物研发",
+"desc": "OpenAI 联合创始人兼总裁 Greg Brockman 与 Sarah Guo、Elad Gil 聊前沿模型的最新进展，以及它如何加速网络安全防御与新药研发。"
+},
+"994123ec-c395-11f1-b01e-fff03490a570": {
+"zh": "ReflectionAI 的 Misha Laskin：5000 亿参数开源推理模型 Beam 是怎么炼成的",
+"desc": "ReflectionAI 联合创始人兼 CEO Misha Laskin 聊开源权重推理模型 Beam 的预训练与强化学习，以及企业算力从租用转向自持的趋势。"
+},
+"44fa0b1c-be0b-11f1-b00d-cb6a27141e9e": {
+"zh": "Fractile 创始人 Walter Goodwin：前沿 AI 实验室需要什么样的专用芯片",
+"desc": "全栈 AI 芯片公司 Fractile 创始人兼 CEO Walter Goodwin 与 Sarah Guo 聊英伟达之外的芯片市场机会、模型架构取舍与自研推理硬件。"
+},
+"e2eb4b88-b7c1-11f1-a5c5-4b2557d321bc": {
+"zh": "Sequence Holdings 联合创始人 Michael Lee：用 AI 从内部重造传统行业龙头",
+"desc": "Sequence Holdings 联合创始人兼 CEO Michael Lee 与 Sarah Guo 聊控股结构与工程整合如何改造老牌企业，以及 77 亿美元的私有化交易。"
+},
+"51c4092c-b309-11f1-8603-fb8d30e1277f": {
+"zh": "Inception 的 Stefano Ermon：为什么扩散模型会赢得 AI 推理",
+"desc": "斯坦福教授、扩散模型先驱 Stefano Ermon 与 Sarah Guo 聊 Inception 如何把扩散架构用于文本与代码生成，以及自回归路线的瓶颈。"
+},
+"2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30": {
+"zh": "Coinbase CEO Brian Armstrong：Agent 金融、稳定币与资产代币化",
+"desc": "Coinbase 联合创始人兼 CEO Brian Armstrong 与 Elad Gil 聊加密轨道与 AI 的结合、Agent 驱动金融的设想，以及稳定币和资产代币化。"
+},
+"8476d0dc-a726-11f1-86e6-bbc25e1787ef": {
+"zh": "Arm CEO Rene Haas：CPU 仍是 AI 计算底座，从 IP 授权走向自研芯片",
+"desc": "Arm CEO Rene Haas 与 Elad Gil、Sarah Guo 聊 Arm 在芯片供应链中的位置、向实体芯片的转型，以及为 Meta 定制的 AGI CPU。"
+},
+"dc36d7b4-a1cb-11f1-a66e-afd86ce968a2": {
+"zh": "Eon 两位联合创始人谈数据护城河：把云备份重做成安全数据层",
+"desc": "Eon 联合创始人 Ofir Ehrlich 与 Gonen Stein 和 Elad Gil 聊真实世界数据集为何成为企业护城河，以及他们如何重构云备份。"
+},
+"8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": {
+"zh": "Max Hodak：从视网膜植入恢复视力，到把大脑当作计算系统来治疗",
+"desc": "Science Corporation 联合创始人兼 CEO Max Hodak 与 Sarah Guo 聊 PRIMA 视网膜植入、脑机接口，以及把大脑视为计算系统的医学思路。"
+},
+"2f8edaf4-9698-11f1-bdc1-eb068382bf86": {
+"zh": "Chess.com CEO Erik Allebest：机器早已赢过人类，国际象棋为何更流行",
+"desc": "Chess.com 联合创始人兼 CEO Erik Allebest 与 Sarah Guo 聊技术演进如何让国际象棋持续增长，以及超级人类能力带来的启示。"
+},
+"17b96322-915c-11f1-aad7-53d361bc6996": {
+"zh": "Sarah 与 Elad 对谈：万亿市值野心、创始人雄心、Token 预算与监管俘获",
+"desc": "Sarah Guo 与 Elad Gil 聊当下的 AI 与创投格局：万亿市值公司是否现实、定价模式变化、创始人对大模型实验室的反应与监管风险。"
+},
+"db17d1d8-8c79-11f1-9e05-6bb27aab1f6f": {
+"zh": "Netic 创始人 Melisa Tokmak：用 AI Agent 重构上门服务的即时调度",
+"desc": "Netic 创始人兼 CEO Melisa Tokmak 与 Elad Gil 聊如何用自主 AI 平台调度家电维修、酒店和宠物护理等实时上门服务。"
+},
+"67540c92-8640-11f1-8f2a-e322343e668d": {
+"zh": "DoorDash 联合创始人谈自主配送：自动驾驶技术与 Ask DoorDash 自然语言入口如何重塑消费与商业",
+"desc": "DoorDash 联合创始人方安迪与唐斯坦利与 Sarah Guo 聊公司如何以机器人和自主技术为底，重塑配送与消费者习惯。"
+},
+"18a5d0ce-73e6-11f1-80e0-175857be9792": {
+"zh": "Booking CEO 格伦·福格尔：从一美元股价到千亿美元，AI 视角下的全球旅行平台",
+"desc": "Booking Holdings CEO 格伦·福格尔与 Elad Gil 回顾 25 年职业生涯，谈 AI 如何改变旅行搜索与预订。"
+},
+"ee5028a8-75be-11f1-bab0-67711adf1682": {
+"zh": "Valar Atomics 创始人以赛亚·泰勒：用真实核反应堆为英伟达芯片供电，解锁能源充裕",
+"desc": "Sarah Guo 走进犹他州反应堆现场，与 Valar Atomics 创始人聊如何绕过纸面设计、真正实现裂变发电。"
+},
+"32e4b7a0-7118-11f1-a100-bf8895cb33ba": {
+"zh": "OpenAI 研究科学家 Noam Brown：大规模测试时计算如何改写基准、安全与研究范式",
+"desc": "Noam Brown 重返节目，与 Sarah Guo 讨论静态基准为何失效，以及让模型长时间思考如何改变能力评估。"
+},
+"a66948ce-6ab7-11f1-8901-5f20f0cddb6d": {
+"zh": "英特尔 CEO 陈立武：66 岁接手最难的工作，重构半导体供应链与代工模式",
+"desc": "英特尔 CEO 陈立武与 Elad Gil、Sarah Guo 谈为何接下这份工作，以及「拯救英特尔」具体意味着什么。"
+},
+"cfdceef6-642a-11f1-9b24-634dad16ced0": {
+"zh": "Biohub 联合创始人扎克伯格与普莉希拉·陈：前沿 AI 加生物数据，让生物学走向开源",
+"desc": "Biohub 两位联合创始人与科学负责人 Alex Rives 谈以开源方式推进疾病治愈，以及 AI 与生物数据的融合。"
+},
+"0c2c7d0c-5fc8-11f1-84fd-97552ff30f86": {
+"zh": "微软 CEO 萨提亚·纳德拉：AI 需要完整生态，每家公司都能在其中找到位置",
+"desc": "在 Microsoft Build 现场，纳德拉与 Sarah Guo、Elad Gil 及 swyx 聊 AI 平台、软件开发与生态格局。"
+},
+"35b51032-5a1c-11f1-b0f1-075a554a4d6f": {
+"zh": "Onyx Security CEO 马克西姆·巴尔·科根：为企业级自主智能体打造 AI 监管护栏",
+"desc": "Onyx Security 创始人谈如何在企业层面监督并保护自主智能体，避免它们越权或失控。"
+},
+"d5095690-549d-11f1-8e98-cf1559f73e7f": {
+"zh": "Cerebras 创始人安德鲁·费尔德曼：餐盘大小的芯片如何撑起 630 亿美元 IPO",
+"desc": "Cerebras 创始人兼 CEO 与 Elad Gil、Sarah Guo 复盘公司历程，谈晶圆级芯片路线与上市背后的取舍。"
+},
+"0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789": {
+"zh": "美国国务院副国务卿雅各布·赫尔伯格：Pax Silica 与十四国经济安全联盟的技术战略",
+"desc": "赫尔伯格与两位主持人谈 Pax Silica 联盟如何从稀土到执行器重构西方 AI 供应链安全。"
+},
+"20105fae-4c96-11f1-a903-0b1789dff273": {
+"zh": "Long Lake CEO 亚历山大·陶布曼：63 亿美元收购 Amex GBT，首个 AI 主导的私有化交易",
+"desc": "Long Lake 如何用 AI 驱动整合收购老牌商旅平台 Amex GBT，以及这种模式为何可行。"
+},
+"e600d2f6-4594-11f1-8bd7-fbfbbecaebaa": {
+"zh": "Baseten CEO 图欣·斯里瓦斯塔瓦：推理需求暴涨、定制模型与推理云的最后一战",
+"desc": "Baseten 联合创始人谈公司 30 倍增长、推理为何成为战略要地，以及后训练专用模型的长期价值。"
+},
+"3c0eeb82-3ed4-11f1-a843-8f60f9c4fd24": {
+"zh": "SAP CTO Philipp Herzig：把企业的操作系统带入AI时代",
+"desc": "SAP CTO Philipp Herzig 与 Sarah Guo 对谈，聊这家五十年企业软件公司如何帮客户跨越AI落地鸿沟。"
+},
+"4255b42e-3a9e-11f1-8eee-179e850fd703": {
+"zh": "ServiceNow CEO Bill McDermott：AI时代如何规模化运营全球组织",
+"desc": "ServiceNow CEO Bill McDermott 与 Sarah Guo 聊从少年创业到执掌科技巨头的经历，以及大型组织在AI时代的转型。"
+},
+"bccec4fe-338a-11f1-97c4-b39f93bb2054": {
+"zh": "Circle CEO Jeremy Allaire：Agent经济将如何改写金融系统",
+"desc": "Circle 联合创始人兼 CEO Jeremy Allaire 与 Elad Gil 聊 Arc 区块链、可编程货币，以及AI Agent 参与交易的经济图景。"
+},
+"715b6286-2ee2-11f1-9103-d36fcb5d0ecb": {
+"zh": "Periodic Labs 联创 Liam Fedus：把大模型扩展定律用于原子世界",
+"desc": "Liam Fedus 与 Elad Gil 聊从暗物质物理到 Google Brain、OpenAI 的经历，以及用AI基础模型加速材料工程。"
+},
+"e12140a6-245e-11f1-83d8-d393763beb3b": {
+"zh": "Andrej Karpathy：代码Agent、AutoResearch与AI的循环时代",
+"desc": "Andrej Karpathy 与 Sarah Guo 聊模型现状、工程与教育的未来、对就业的影响，以及让Agent自主闭环做研究的 AutoResearch。"
+},
+"1683311e-1dcf-11f1-b1e2-fbd9c92e8464": {
+"zh": "Notion 联创 Simon Last：从写代码到做管理，转向Agent工程",
+"desc": "Notion 联合创始人 Simon Last 与 Sarah Guo 聊其Agent如何自建集成与写代码完成任务，以及从写作工具到Agent平台的演变。"
+},
+"9b87c7ba-12e6-11f1-b442-a76c7c1ba652": {
+"zh": "Magnetar Capital 董事总经理 Neil Tiwari：资本如何推动AI基建",
+"desc": "Magnetar Capital 的 Neil Tiwari 与 Sarah Guo 聊近7000亿美元AI资本开支背后的创新融资结构，以及基建如何从千亿走向万亿。"
+},
+"d9ff37a4-0d2c-11f1-9891-ab70d7b6b0d2": {
+"zh": "从 SaaS 到AI优先：企业如何重塑创新与商业模式",
+"desc": "Sarah Guo 与 Elad Gil 讨论AI如何冲击传统SaaS模式，软件的生产、销售与规模化方式正在发生哪些变化。"
+},
+"34fe5a44-07ca-11f1-8c1a-d7a3b0185e5a": {
+"zh": "Rivian CEO RJ Scaringe：自动驾驶的AI架构与自研芯片之路",
+"desc": "Rivian 创始人兼 CEO RJ Scaringe 与 Sarah Guo 聊放弃原有技术平台、自建垂直整合数据栈，以及自动驾驶的神经网络路线。"
+},
+"562a5ad2-023f-11f1-9226-d3aacc4ebabd": {
+"zh": "Roblox CEO Dave Baszucki：4D创作、NPC与游戏的未来",
+"desc": "Roblox CEO Dave Baszucki 与 Sarah Guo、Elad Gil 聊AI与物理模拟结合下的4D创作开放测试及游戏中的实时生成世界。"
+},
+"96183ade-fc85-11f0-afd1-333d46251321": {
+"zh": "Until CEO Laura Deming：可逆冷冻保存为何不再是科幻",
+"desc": "生物科技公司 Until 联合创始人 Laura Deming 与 Sarah Guo 聊可逆冷冻保存的研究进展，以及暂停生物时间等待疗法的可能。"
+},
+"302ace88-f746-11f0-a540-7fffce6a7ef7": {
+"zh": "MongoDB CEO CJ Desai：在AI时代构建持久耐用的软件",
+"desc": "MongoDB 总裁兼 CEO CJ Desai 在首场线下活动中与 Sarah Guo 聊为何产品会被替代而平台长存，以及企业软件的变局。"
+},
+"66b7229a-f204-11f0-b30c-d7f3357d3b32": {
+"zh": "美国战争部副部长埃米尔·迈克尔谈生成式AI如何重塑未来战争形态",
+"desc": "美国战争部研究与工程副部长埃米尔·迈克尔与 Sarah Guo、Elad Gil 讨论军方大规模部署生成式 AI 的动机、路径与风险。"
+},
+"a17b5dc0-ec22-11f0-b110-bf9afc804d86": {
+"zh": "英伟达黄仁勋谈推理模型、机器人，以及为何不存在AI泡沫",
+"desc": "英伟达创始人兼 CEO 黄仁勋与 Sarah Guo、Elad Gil 谈加速计算取代摩尔定律、推理模型与机器人进展，并回应 AI 泡沫论。"
+},
+"4856e400-dd1b-11f0-802d-b3e1165719d0": {
+"zh": "2026年AI前瞻：基础模型、IPO与机器人将走向何方",
+"desc": "Sarah Guo 与 Elad Gil 盘点 2026 年 AI 关键趋势，涵盖基础模型突破、上市窗口、机器人落地与医疗法律等行业的采用速度。"
+},
+"fe83b8aa-d6a6-11f0-b9c5-07076eb4fcb6": {
+"zh": "ElevenLabs 联合创始人谈语音AI：Agent、配音与实时翻译的下一站",
+"desc": "ElevenLabs 联合创始人 Mati Staniszewski 与 Sarah Guo 聊语音 AI 的技术难点、Agent 应用场景以及实时跨语言交流的可能。"
+},
+"06d40f7e-d16a-11f0-b468-7785d5b925c0": {
+"zh": "Harvey 联合创始人谈法律AI规模化：从工具到下一代律所",
+"desc": "Harvey 联合创始人兼总裁 Gabe Pereyra 与 Sarah Guo、Elad Gil 讨论法律 AI 如何从提升个人效率走向重构律所组织与服务模式。"
+},
+"6bd6fe0e-c4fe-11f0-888a-af21e27bc591": {
+"zh": "Sunday Robotics 联合创始人谈家用机器人如何迎来自己的GPT时刻",
+"desc": "Sunday Robotics 联合创始人 Tony Zhao 与 Cheng Chi 与 Sarah Guo 聊家用机器人 Memo 的技术路线、数据难题与商业化挑战。"
+},
+"1f0d792e-c051-11f0-bbf5-17d9e94504e1": {
+"zh": "Benchling CEO 谈AI如何加速生物技术研发与药物发现",
+"desc": "Benchling 联合创始人兼 CEO Sajith Wickramasekara 与 Sarah Guo 讨论 AI Agent 如何介入生物研发流程、缩短新药上市周期。"
+},
+"ef1f66be-ba9c-11f0-b6d4-6f579bc4c29d": {
+"zh": "Snowflake CEO 谈企业级智能体：让每位员工都能用上数据智能",
+"desc": "Snowflake CEO Sridhar Ramaswamy 与 Sarah Guo 聊上任 18 个月的转型思路，以及面向全员的企业智能体平台 Snowflake Intelligence。"
+},
+"7ac1585e-b655-11f0-b43f-43adc6cc09b9": {
+"zh": "2025年过半回顾：No Priors 精选对话中的AI前沿进展",
+"desc": "Sarah Guo 与 Elad Gil 回顾 2025 年上半年节目精华，重访 Harvey、World Labs、Mercor 与 AI 安全中心等嘉宾的观点。"
+},
+"4203e26a-af7b-11f0-82a3-ffff032a4199": {
+"zh": "Warp CEO 谈重造开发者终端：让AI Agent接管编码与调试",
+"desc": "Warp 联合创始人兼 CEO Zach Lloyd 与 Elad Gil 聊为何要重写几十年未变的终端，以及 Agent 如何改变软件开发全流程。"
+},
+"678b0abc-a94b-11f0-9c77-f7212adc0484": {
+"zh": "Base Power CEO 谈AI时代的能源困局与电网重构",
+"desc": "Base Power 联合创始人兼 CEO Zach Dell 与 Elad Gil 讨论 AI 用电激增下电网面临的危机、分布式储能方案与十亿美元融资的用途。"
+},
+"0215da30-a479-11f0-b972-17ab202e9eea": {
+"zh": "humans& 创始人 Eric Zelikman 谈机器学习的智商与情商之辨",
+"desc": "前 xAI 研究员 Eric Zelikman 与 Sarah Guo 聊新公司 humans& 为何要从单纯追求模型智商转向构建具备情商的 AI。"
+},
+"6e2afd94-9f0c-11f0-92e7-6bdf4b704a3b": {
+"zh": "Palo Alto Networks CEO Nikesh Arora 谈 AI 如何重塑商业模式与网络安全",
+"desc": "Palo Alto Networks CEO Nikesh Arora 与 Sarah Guo、Elad Gil 聊 agentic AI、网络安全威胁、搜索未来与领导力。"
+},
+"0165ea4c-998b-11f0-8424-57140317994d": {
+"zh": "Alpha School 校长 Joe Liemandt 谈用 AI 重构 K-12 教育：每天两小时学完学术课程",
+"desc": "Alpha School 校长 Joe Liemandt 与 Sarah Guo、Elad Gil 聊 AI 驱动的 K-12 教育改革，以及如何用两小时完成学业、腾出时间培养实践能力。"
+},
+"5450794e-9412-11f0-b9e4-abf7ddf347b6": {
+"zh": "Decagon CEO Jesse Zhang 谈 AI Agent 之间的对话如何重塑商业与客服",
+"desc": "Decagon 联合创始人兼 CEO Jesse Zhang 与 Elad Gil 聊 AI 客服 Agent 如何拿下大型企业客户，以及 AI 与 AI 交互带来的商业变革。"
+},
+"8e23d080-8eb8-11f0-9e95-ef4404aa7750": {
+"zh": "Jared Kushner 谈 BrainCo、Affinity Partners 与 AI 地缘政治",
+"desc": "投资人 Jared Kushner 与 Sarah Guo、Elad Gil 聊他从政界到商界的经历、Affinity Partners 的创立，以及新 AI 项目 BrainCo 和 AI 地缘政治。"
+},
+"caba02d6-8944-11f0-8926-77c93b52c76f": {
+"zh": "OpenEvidence 创始人 Daniel Nadler 谈为医生打造新操作系统，18 个月覆盖四成美国医生",
+"desc": "OpenEvidence 创始人 Daniel Nadler 与 Sarah Guo、Elad Gil 聊如何用 AI 改变医生获取关键信息的方式，以及产品在 18 个月内被 40% 美国医生采用的路径。"
+},
+"1866a164-840f-11f0-9ab8-8b06c0bf2b10": {
+"zh": "Jacob Helberg 谈为超级智能时代重塑美国经济：制造业回流、供应链与就业",
+"desc": "美国国务院副国务卿 Jacob Helberg 与 Sarah Guo、Elad Gil 聊 AI 如何增强而非取代劳动者，以及制造业回流与供应链安全政策。"
+},
+"1e51656a-7e3c-11f0-85dd-df5bf444dc18": {
+"zh": "吴恩达谈 Agentic AI 如何改变创业格局：2025 年的创始人不能再沿用 2022 年的打法",
+"desc": "吴恩达与 Sarah Guo、Elad Gil 聊 agentic AI 的崛起、创业公司如何调整组织与产品策略，以及 AI Fund 的投资观察。"
+},
+"bf6526e4-77ca-11f0-a989-b7159644f32b": {
+"zh": "SemiAnalysis 创始人 Dylan Patel 谈芯片、Neocloud 与挑战英伟达的 AI 基础设施格局",
+"desc": "SemiAnalysis 创始人兼 CEO Dylan Patel 与 Sarah Guo 聊挑战英伟达需要什么、OpenAI 开源模型预测、neocloud 格局与 AI 基础设施瓶颈。"
+},
+"6320f464-73c7-11f0-81b1-6ff748b8df58": {
+"zh": "Cloudflare CEO Matthew Prince 谈 AI 时代内容价值的转移与创作者公平",
+"desc": "Cloudflare 联合创始人兼 CEO Matthew Prince 与 Sarah Guo、Elad Gil 聊互联网从搜索到 AI 的演变，以及如何为内容创作者重建公平的回报机制。"
+},
+"84d69ca6-6d7f-11f0-9911-37e7043a4aa5": {
+"zh": "白宫 AI 高级政策顾问 Sriram Krishnan 谈美国如何主导完整 AI 技术栈",
+"desc": "白宫 AI 高级政策顾问 Sriram Krishnan 与 Elad Gil、Sarah Guo 解读美国 AI 行动计划与行政令，讨论如何赢得 AI 竞赛并保持技术栈优势。"
+},
+"35c1e740-689a-11f0-add9-bb781bc08e8d": {
+"zh": "SurgeAI 创始人 Edwin Chen 谈高质量人类数据的价值与规模化监督",
+"desc": "SurgeAI 创始人兼 CEO Edwin Chen 与 Sarah Guo、Elad Gil 聊高质量人类数据为何重要、为何选择自筹资金，以及规模化监督在数据生产中的作用。"
+},
+"70012bce-6295-11f0-ad0d-0f28dd351ade": {
+"zh": "ReflectionAI 的 Misha Laskin 谈 Asimov：用强化学习打造全知代码理解 Oracle",
+"desc": "ReflectionAI 联合创始人兼 CEO Misha Laskin 与 Sarah Guo 介绍基于 RL 的代码理解 Agent Asimov，讨论其工具使用与迈向 ASI 的路径。"
+},
+"08c4587e-5d08-11f0-8eb0-131c3e272eb6": {
+"zh": "Rippling CEO 帕克·康拉德：为什么平台会赢，单点解决方案注定失败",
+"desc": "Rippling 联合创始人兼 CEO 帕克·康拉德回顾 Zenefits 崩盘教训，聊创始人心理与 SaaS 为何必须做平台而非单点工具。"
+},
+"a97bdba6-57b9-11f0-bd10-b793f3e585c5": {
+"zh": "Chai Discovery 联创谈 Chai-2：把抗体结合成功率做到 20% 的 AI 模型",
+"desc": "Chai Discovery 联合创始人 Joshua Meier 与 Jack Dent 讲述 Chai-2 如何设计定制抗体，以及 AI 加速药物发现的现实路径。"
+},
+"3b024e26-4d32-11f0-94ad-8fcf0dee7dd6": {
+"zh": "谷歌 DeepMind 的 AlphaEvolve：比人类更会找算法的自主智能体",
+"desc": "Google DeepMind 的 Pushmeet Kohli 与 Matej Balog 讲解自主智能体 AlphaEvolve 如何搜索复杂空间、发现新算法并推动科学突破。"
+},
+"bd774304-4b1e-11f0-b336-af7166051a8b": {
+"zh": "自动驾驶的操作系统：Applied Intuition 谈无人车、卡车与军用车辆的落地",
+"desc": "Applied Intuition 的 CEO Qasar Younis 与 CTO Peter Ludwig 与 Elad Gil 聊自研车载 OS 的优势，以及自动驾驶商业化的时机。"
+},
+"11e3fb1c-4782-11f0-bc41-af3d51d75a15": {
+"zh": "2028 年会迎来超级智能吗？Anthropic 联合创始人 Ben Mann 的判断",
+"desc": "Anthropic 联合创始人 Ben Mann 聊 Claude 4 如何从 reward hacking 走向高效完成任务，以及 AI 安全与智能体部署的赛跑。"
+},
+"814bc9c2-41b9-11f0-8bc3-bba9088e2848": {
+"zh": "李飞飞（Fei-Fei Li）：让 AI 理解物理世界，从 ImageNet 到世界模型",
+"desc": "斯坦福教授李飞飞谈创办 World Labs 的初衷，今天的 AI 系统还缺什么，以及她眼中下一代机器人与具身智能的路线。"
+},
+"77b1b1c8-3c4c-11f0-8d4f-fb069b1fa803": {
+"zh": "AI 市场整合、生物科技机会与世界模型：Sarah 和 Elad 的行业盘点",
+"desc": "Sarah Guo 与 Elad Gil 讨论 AI 行业是否正在整合、并购的阻力在哪，以及生物科技与世界模型里尚未被吃到的机会。"
+},
+"a8d8d4d4-3143-11f0-8369-7f5fd70af999": {
+"zh": "Glean 创始人 Arvind Jain：为什么大模型让企业搜索重新变得重要",
+"desc": "Glean 创始人兼 CEO Arvind Jain 谈 LLM 如何改造企业搜索、多数同类工具为何失败，以及基于企业数据的应用机会。"
+},
+"aa63ee7a-2b5c-11f0-8881-3f385c9168a3": {
+"zh": "Duolingo CEO Luis von Ahn：游戏化为何是教育的未来",
+"desc": "Duolingo 创始人兼 CEO Luis von Ahn 谈动机为何是教育最大的难题，以及多邻国如何用游戏机制和行为洞察驱动学习。"
+},
+"ee31f9b4-2623-11f0-9aeb-0fb457794f55": {
+"zh": "OpenAI O3 团队：推理的下一次跃迁，以及强化学习与工具调用的作用",
+"desc": "OpenAI 的 Eric Mitchell 与 Brandon McKinzie 拆解 O3 的推理能力、强化学习与工具使用，并展望下一代人机交互。"
+},
+"12f803f0-208a-11f0-9e69-833db56056ab": {
+"zh": "Isa Fulford 谈 Deep Research：如何造出有品味、真能干的 AI Agent",
+"desc": "OpenAI 的 Isa Fulford 讲述 Deep Research 的起点、人类专家数据的价值，以及延迟挑战与 Agent 能力下一步的演进。"
+},
+"e45c3256-1b1a-11f0-a6b5-fbc22f1b9874": {
+"zh": "KoBold Metals 联合创始人 Josh Goldman：用 AI 寻找锂与钴等关键矿产",
+"desc": "KoBold Metals 联合创始人兼总裁 Josh Goldman 讲 AI 如何让矿产勘探更快更准，以及关键矿物供应链正在发生的变化。"
+},
+"4f95e928-160b-11f0-aa3f-274526c9c1b6": {
+"zh": "从岗位被取代到AI训练师：Mercor CEO谈AI时代的工作与技能投资",
+"desc": "Mercor联合创始人兼CEO Brendan Foody与Sarah、Elad讨论AI如何实际重塑劳动力市场，以及如今值得投入哪些技能。"
+},
+"e8c236c2-1031-11f0-baa0-8b8280f9d99f": {
+"zh": "公开市场回调、图像生成与专用模型：Sarah和Elad拆解当下AI格局",
+"desc": "Sarah与Elad分析公开市场下跌与关税对科技业的影响，讨论大模型的剩余机会、专用模型与新开发路径。"
+},
+"f81d7a56-09c8-11f0-835c-973038b1855f": {
+"zh": "对话即事实来源：Abridge CEO Shiv Rao谈用AI重塑临床记录与医患沟通",
+"desc": "Abridge创始人兼CEO Shiv Rao与Elad、Sarah聊AI临床记录工具如何改善医患互动、赢得医疗系统信任并还给医生时间。"
+},
+"55740240-053e-11f0-87c9-f77f9e55ff05": {
+"zh": "机器人革命进行时：Physical Intelligence联合创始人Chelsea Finn谈机器人如何学习",
+"desc": "Elad与斯坦福教授、Physical Intelligence联合创始人Chelsea Finn讨论机器人学习、物理世界模型训练的难点与多样化数据。"
+},
+"e9b68a1c-fec3-11ef-99db-b3d2ab87da2f": {
+"zh": "Copilot、Agent模式与开发工具新世界：GitHub CEO Thomas Dohmke谈AI编程",
+"desc": "GitHub CEO Thomas Dohmke与Sarah、Elad讨论Copilot如何重塑开发者工作流、Agent模式、工具市场竞争与开源未来。"
+},
+"a8bf3ba4-f620-11ef-a98d-13512d865c71": {
+"zh": "超级智能前夕的国家安全战略与AI评测：AI安全中心Dan Hendrycks谈 Humanity's Last Exam",
+"desc": "AI安全中心负责人Dan Hendrycks与Sarah讨论超级智能时代的国家安全战略、AI评测方法及其xAI与Scale AI顾问经历。"
+},
+"99df7de2-efa9-11ef-98d1-9ff755f42533": {
+"zh": "搭建科学突破的平台：Moderna背后的Flagship Pioneering CEO Noubar Afeyan谈生物科技创新",
+"desc": "Flagship Pioneering联合创始人兼CEO Noubar Afeyan与Sarah探讨如何孕育科学突破、应对监管不确定性及AI在医疗中的角色。"
+},
+"1c118a70-f375-11ef-83d6-336f7c7c7480": {
+"zh": "虚拟细胞模型、Tahoe-100与AI生物数据：Vevo Therapeutics与Arc Institute团队谈AI制药",
+"desc": "Vevo Therapeutics与Arc Institute多位核心成员与Sarah讨论虚拟细胞模型、Tahoe-100数据集及AI在生物医药中的数据难题。"
+},
+"8c355b0c-ea64-11ef-8881-87f868503af4": {
+"zh": "在难做的市场做硬科技：Kyle Vogt谈Cruise、Twitch与家用机器人公司The Bot Company",
+"desc": "连续创业者Kyle Vogt与Sarah、Elad回顾创办Twitch与Cruise的经历，并谈AI家用机器人的新尝试与规模化挑战。"
+},
+"5fd15316-ea52-11ef-b1fe-1710e612e413": {
+"zh": "Harvey AI如何改变法律行业：联合创始人Winston Weinberg谈应用层AI的落地",
+"desc": "Harvey联合创始人兼CEO Winston Weinberg与Sarah聊为律所与财富500强打造领域专用AI，以及应用层公司的商业化路径。"
+},
+"eba1a224-e4ee-11ef-bdb6-afd36b12ad4c": {
+"zh": "DeepSeek、Deep Research与2025预测：No Priors第100期特别节目",
+"desc": "Sarah与Elad在第100期节目中辨析DeepSeek的真伪与训练成本、模型商品化之争，并解读OpenAI Deep Research。"
+},
+"4203323e-df56-11ef-8339-e7a60435167d": {
+"zh": "Rick Caruso谈洛杉矶山火、政策失灵与重建前路",
+"desc": "洛杉矶地产开发商、2022年市长竞选人Rick Caruso与Elad讨论2025年1月山火背后的系统性失灵与政策反思。"
+},
+"226197ee-d516-11ef-84f0-9bed70319b3b": {
+"zh": "洛杉矶野火之后：Convective Capital 创始人 Bill Clerico 谈技术减灾与气候韧性",
+"desc": "Convective Capital 创始人 Bill Clerico 与 Sarah、Elad 讨论如何通过早期投资和技术方案应对洛杉矶野火，并提升社会气候韧性。"
+},
+"673b06c4-cf90-11ef-b9e1-0b761165641d": {
+"zh": "AI Agent 如何重塑客服：Decagon 联合创始人 Jesse Zhang 谈从客服切入企业级落地",
+"desc": "Decagon 联合创始人兼 CEO Jesse Zhang 与 Elad 讨论 AI Agent 如何进入客服场景，以及企业级智能客服的落地路径。"
+},
+"0bcc32d0-ce06-11ef-b06f-ef5d2bf12582": {
+"zh": "让 AI 工程更轻松：Modal Labs 创始人 Erik Bernhardsson 谈无服务器基础设施",
+"desc": "Modal Labs 创始人兼 CEO Erik Bernhardsson 与 Elad 聊 AI 工程的无服务器基础设施，以及如何简化部署、扩缩容和开发流程。"
+},
+"2a0d6f1a-b9a3-11ef-a5aa-d736798991a8": {
+"zh": "2024 年 AI 领域年度回顾：Sarah Guo 与 Elad Gil 精选关键趋势与投资判断",
+"desc": "Sarah Guo 与 Elad Gil 回顾 2024 年 AI 技术、创业与投资的关键趋势，并分享年度播客中的精彩片段与判断。"
+},
+"c30ecff2-bd9e-11ef-a6a3-eb1903aadeb9": {
+"zh": "Agency 创始人 Elias Torres 谈 AI Agent 如何改造客户成功、团队与创业路径",
+"desc": "Agency 创始人兼 CEO Elias Torres 与 Sarah 聊 AI Agent 如何服务客户成功团队，并回顾其从 HubSpot、Drift 到 OpenAI 的创业经历与产品思考。"
+},
+"aea04564-b84e-11ef-94a1-efea8eabe6c5": {
+"zh": "钻石冷却如何支撑 AI 未来：Akash Systems 创始人谈半导体散热与数据中心",
+"desc": "Akash Systems 创始人 Felix Ejeckam 与 Ty Mitchell 和 Sarah 讨论钻石冷却技术，如何解决半导体与 AI 数据中心的散热瓶颈并提升热效率。"
+},
+"975ef6ce-b309-11ef-b55c-bbae22b434e8": {
+"zh": "Bolt 如何让每个人用 AI 生成网站：StackBlitz 创始人 Eric Simons 谈浏览器开发",
+"desc": "StackBlitz 联合创始人兼 CEO Eric Simons 与 Sarah 聊 Bolt.new 如何让用户用提示词在浏览器中生成、编辑并部署全栈应用。"
+},
+"4d7bd78a-a7a0-11ef-b30b-8f87fdf24a7a": {
+"zh": "模型平台期与企业 AI 落地：Cohere 创始人 Aidan Gomez 谈大模型商业化",
+"desc": "Cohere 联合创始人兼 CEO Aidan Gomez 与 Sarah 讨论企业 AI 采用、模型能力平台期，以及他从 Transformer 论文到创业的经历。"
+},
+"0a0692f4-a22f-11ef-ba76-3f7695811609": {
+"zh": "AI 与数学的未来：DeepMind AlphaProof 团队谈强化学习与形式化证明",
+"desc": "Google DeepMind 的 AlphaProof 团队 Laurent Sartran、Rishi Mehta、Thomas Hubert 与 Sarah、Elad 聊 AI 如何用强化学习与形式化证明解决复杂数学问题，并达到奥赛银牌水平。"
+},
+"cdcbd536-9baa-11ef-8af0-6f795c311bff": {
+"zh": "英伟达黄仁勋谈 AI 芯片设计、数据中心扩张与十年下注",
+"desc": "英伟达 CEO 黄仁勋与 Sarah、Elad 讨论 AI 数据中心扩张、芯片设计、软件生态与十年基础设施下注。"
+},
+"cd96c728-974b-11ef-943a-43abc622bf14": {
+"zh": "用预测市场预判未来：Kalshi 创始人 Tarek Mansour 谈美国首个受监管平台",
+"desc": "Kalshi CEO Tarek Mansour 与 Sarah 讨论美国首个 CFTC 监管预测市场，选举投注合法化、伦理争议及预测准确性。"
+},
+"ce9bd35e-91db-11ef-a7d1-13b3656d97ba": {
+"zh": "Waymo 迈向完全自动驾驶：联合 CEO Dmitri Dolgov 谈 AI 突破、安全与规模化",
+"desc": "Waymo 联合 CEO Dmitri Dolgov 与 Sarah、Elad 回顾自动驾驶技术从 Google 到落地，讨论 AI 突破、安全、规模化挑战以及第六代无人车设计。"
+},
+"4ffed614-8c67-11ef-b482-8f0094925d94": {
+"zh": "AI 重塑游戏与约会应用：诺奖风向与高危行业的生存挑战",
+"desc": "Sarah 与 Elad 讨论 AI 如何进入消费应用与娱乐，游戏与约会整合可能改变社会激励，并分析 AI 研究者首获诺贝尔奖的意义及哪些商业模式面临风险。"
+},
+"a173e1f2-8284-11ef-bae3-bb8f77217bd6": {
+"zh": "Braintrust CEO 谈 AI 产品上线：评估、开源与工具链新趋势",
+"desc": "Elad 与 Braintrust 创始人兼 CEO Ankur Goyal 聊企业如何规模化部署非确定性 AI 应用，以及 AI 工具、编程语言、开源与企业采用的最新变化。"
+},
+"503dfc22-8050-11ef-96db-2b4d9c864810": {
+"zh": "Lina Khan 谈 FTC 监管议程：并购审查、AI 收购与竞业限制",
+"desc": "FTC 主席 Lina Khan 与 Elad、Sarah 讨论科技市场监管思路，评估未来并购交易、AI 领域收购与竞业协议的可能走向。"
+},
+"16d54e28-7b54-11ef-be1c-ebf1bc8814cc": {
+"zh": "Rippling COO 谈用 AI 评估员工绩效：复合型创业的产品策略",
+"desc": "Sarah 与 Elad 对话 Rippling COO Matt MacInnis，聊复合型创业公司如何选择 AI 产品方向，以及 AI 绩效工具 Talent Signal 的早期使用与效果。"
+},
+"fd8af402-760f-11ef-8de4-efa47f60e5e5": {
+"zh": "Sierra 联合创始人 Bret Taylor：用企业级 Agent 重塑客户服务",
+"desc": "OpenAI 董事长、Sierra 联合创始人 Bret Taylor 与 Sarah、Elad 讨论如何打造带品牌人格与边界的客服 Agent，在降低企业成本的同时革新客户互动。"
+},
+"1d048f82-70b6-11ef-bff7-6f3314e25240": {
+"zh": "Sarah 与 Elad 谈 LLM 市场格局：整合、模型专用化与小模型机会",
+"desc": "两位主持人梳理大模型市场的新合作与整合趋势、模型专用化方向以及 AMD 的战略布局，并顺带聊了 Elad 想找一台人形机器人的计划。"
+},
+"5bcd6c28-6b36-11ef-948c-3731abc8d1b2": {
+"zh": "Andrej Karpathy 谈自动驾驶路线与通向自主智能的瓶颈",
+"desc": "OpenAI 创始成员、前特斯拉 AI 负责人 Andrej Karpathy 与 Sarah、Elad 比较特斯拉与 Waymo 的自动驾驶路径，讨论 Optimus 人形机器人与 AI 发展瓶颈。"
+},
+"58a25afe-658c-11ef-9b1f-7b4b7d323214": {
+"zh": "Magic.dev CEO Eric Steinberger：AI 编程助手与后 AGI 世界的想象",
+"desc": "Sarah 与 Elad 对话 Magic.dev 联合创始人兼 CEO Eric Steinberger，讨论更像同事而非工具的 AI 软件工程师、评测标准，以及对后 AGI 时代的预测。"
+},
+"5bd2101e-6561-11ef-af63-5f374e6bddcf": {
+"zh": "AWS CEO Matt Garman 谈 AI 时代的云战略：基础设施、合作与扩展",
+"desc": "Sarah 与 Elad 与 AWS CEO Matt Garman 回顾 AWS 的发展历程，讨论 AI 基础设施、与 AI 初创公司的合作，以及扩展 AI 工作负载面临的挑战。"
+},
+"89e2ba14-5e43-11ef-b4b8-73425bbdf634": {
+"zh": "Foundry CEO Jared Quincy Davis：AI 算力市场与 GPU 云的经济学",
+"desc": "前 DeepMind 研究员、Foundry 创始人兼 CEO Jared Quincy Davis 与 Sarah、Elad 讨论 GPU 云利用率、AI 工作负载成本，以及创业背后的研究问题。"
+},
+"378fc8ca-543d-11ef-b817-979babd21675": {
+"zh": "Ramp 创始团队谈如何用 AI 为每个团队搭建更聪明的系统",
+"desc": "Ramp 联合创始人 Eric Glyman 与 Karim Atiyeh 和 Sarah、Elad 聊这家快速增长的金融科技公司如何用工程与 AI 帮助销售、营销、产品等各团队提升效率。"
+},
+"578f7f6a-543a-11ef-8b42-6348ded82e3e": {
+"zh": "Brex CEO Pedro Franceschi：用 AI 改造企业支出管理与财务合规",
+"desc": "Sarah 与 Elad 对话 Brex 联合创始人兼 CEO Pedro Franceschi，聊 AI 如何自动化报销、会计与合规流程，以及当下 AI 系统的可靠性挑战。"
+},
+"cb572fe8-4fb1-11ef-94d8-63b37b039611": {
+"zh": "谷歌DeepMind研究副总裁谈Gemini、搜索与AI愿景",
+"desc": "谷歌DeepMind研究副总裁Oriol Vinyals回顾AlphaStar经历，谈Gemini项目与AI如何改变搜索。"
+},
+"9b93cf44-4a13-11ef-8ff4-4be9698cb9bd": {
+"zh": "Airtable创始人谈AI时代低代码如何走向企业级平台",
+"desc": "Airtable联合创始人兼CEO Howie Liu谈Cobuilder发布，以及从效率工具到企业级AI应用平台的演进。"
+},
+"9b9387ac-4485-11ef-a0e7-2f063a59a340": {
+"zh": "Sarah Guo与Elad Gil谈AI新市场与创业公司格局之变",
+"desc": "Sarah与Elad复盘互联网早期与当下的相似之处，聊AI打开的新市场与创业公司格局变化。"
+},
+"abe61688-394f-11ef-b27c-d31dc511f297": {
+"zh": "2024上半年精选：Figma、Stripe、OpenAI等嘉宾观点回顾",
+"desc": "Sarah与Elad回顾2024上半年节目，涵盖Figma、Stripe、Figure AI与OpenAI Sora团队等嘉宾。"
+},
+"cb3203f0-3475-11ef-86a0-af4a464cbbc3": {
+"zh": "Cartesia创始人谈SSM状态空间模型与实时智能",
+"desc": "Cartesia联合创始人Karan Goel与Albert Gu谈SSM基础模型、Sonic语音模型与实时智能。"
+},
+"dd3e4dee-2f23-11ef-ba8a-1baf417c7a0f": {
+"zh": "HeyGen创始人Joshua Xu谈AI视频能否取代摄像机",
+"desc": "HeyGen联合创始人兼CEO Joshua Xu谈用语言、视频与语音模型生成个性化数字人视频。"
+},
+"90e71ee4-22e4-11ef-9fff-9fe3783865e5": {
+"zh": "Zapier的Mike Knoop谈ARC Prize与AGI定义之争",
+"desc": "Zapier联合创始人Mike Knoop谈ARC Prize竞赛，以及如何定义与衡量通用智能。"
+},
+"3efa7a9c-238c-11ef-8799-8fda26a64156": {
+"zh": "Voyage AI马腾宇谈RAG架构的演进与前景",
+"desc": "Voyage AI创始人马腾宇谈RAG为何成为主流架构，以及嵌入模型与企业级检索的演进。"
+},
+"dc1cac2a-1877-11ef-8beb-2f2365a26b10": {
+"zh": "YC总裁Garry Tan谈AI如何重塑孵化器与创业者生态",
+"desc": "Y Combinator总裁Garry Tan谈YC创始人群体变化，以及AI如何推动年轻创业者创业。"
+},
+"20f661c6-17f4-11ef-bb81-a3d81b51b18e": {
+"zh": "Scale AI创始人Alexandr Wang谈AI数据工厂的构建",
+"desc": "Scale AI创始人Alexandr Wang谈从自动驾驶到数据标注，如何为AI构建关键数据基础设施。"
+},
+"0dfd2fa2-1329-11ef-8b78-4bbe5549f6da": {
+"zh": "Suno CEO Mikey Shulman谈音乐消费者如何变成创作者",
+"desc": "Suno联合创始人兼CEO Mikey Shulman谈AI音乐生成如何降低门槛，让消费者变成创作者。"
+},
+"58c2dc90-0da1-11ef-b76e-5b6718d85801": {
+"zh": "Sarah与Elad聊上下文窗口、算力约束与能耗",
+"desc": "Sarah与Elad聊Meta新AI助手、音乐生成、端侧模型与AI硬件，并追问小模型能有多聪明。"
+},
+"d44458c8-086d-11ef-9538-23f75da4f781": {
+"zh": "Cognition 创始人 Scott Wu：Devin 会怎样为人类工程师工作",
+"desc": "Cognition 联合创始人兼 CEO Scott Wu 与 Sarah、Elad 聊 Devin 的设计思路，以及 AI 软件工程师如何与人类开发者协作。"
+},
+"27867cac-02b3-11ef-9aa9-eb761220f63f": {
+"zh": "OpenAI Sora 团队：视频模型或许才刚到「GPT-1」阶段",
+"desc": "Sora 团队负责人 Aditya Ramesh、Tim Brooks 等与主持人聊视频生成模型的技术路线，以及它为何可能是通往 AGI 的一步。"
+},
+"1fab0488-fd7e-11ee-9b75-c3ec5fddeade": {
+"zh": "Playground AI 创始人 Suhail Doshi 谈 AI 艺术创作与创意增强",
+"desc": "Playground AI 创始人 Suhail Doshi 与 Sarah、Elad 聊多模态模型如何改变艺术创作，以及开源扩散模型的进展与取舍。"
+},
+"987297b2-f790-11ee-8f2e-3375da40086e": {
+"zh": "超大规模云厂商的 AI 策略、应用层升温与当下的 Agent 认知",
+"desc": "Sarah 与 Elad 的纯主播期：对比互联网浪潮看 AI 浪潮，聊投资现状、基础模型格局、语音与视频、Agent 系统及微软收购 Inflection。"
+},
+"040cf7b8-f1df-11ee-969b-cf6f4236204d": {
+"zh": "Figure AI 创始人 Brett Adcock：为什么我们需要人形机器人",
+"desc": "Figure AI 创始人兼 CEO Brett Adcock 与 Sarah 聊公司如何在 21 个月内造出能行走的人形机器人，以及它在工厂与家庭中的落地前景。"
+},
+"14457f8c-ec6d-11ee-b27e-0bc3d878fa84": {
+"zh": "LangChain 创始人 Harrison Chase 谈开源 AI 应用开发",
+"desc": "LangChain CEO 兼联合创始人 Harrison Chase 与 Sarah、Elad 聊开源框架如何降低企业构建 LLM 应用与 Agent 的门槛。"
+},
+"4e29fa5e-e72f-11ee-ad6d-976507b329a0": {
+"zh": "Baseten 的 Tuhin Srivastava：速度将决定 AI 算力竞争胜负",
+"desc": "Baseten CEO 兼联合创始人 Tuhin Srivastava 与 Sarah、Elad 聊推理基础设施、AI 产品的速度竞争与规模化部署。"
+},
+"4a4075c2-e0bc-11ee-a080-0b2a98af5dd1": {
+"zh": "Figma 创始人 Dylan Field：AI、协作与独立发展的下一步",
+"desc": "Figma 创始人兼 CEO Dylan Field 与 Sarah、Elad 聊与 Adobe 合并受阻后的独立路线，以及 AI 如何加速设计流程。"
+},
+"cd1f013a-dc3d-11ee-a27c-07b5ce29d797": {
+"zh": "英伟达 Meta 谷歌财报、开源闭源之争与 AI 投资回报现状",
+"desc": "Sarah 与 Elad 的纯主播期，聊英伟达、Meta、谷歌财报，Gemini 与 Mistral 新模型，开源闭源之争与芯片领域是否会有真正竞争。"
+},
+"93d1e628-d67e-11ee-a788-cf8c387ebc4c": {
+"zh": "AMD CTO Mark Papermaster：竞争才能带来更好的芯片设计",
+"desc": "AMD CTO Mark Papermaster 与 Sarah、Elad 聊 AMD 的 GPU 路线、推理负载落点、软件栈与供应链，以及 2024 年的计划。"
+},
+"e9dacc08-d06e-11ee-a9b9-2f26ad402b46": {
+"zh": "Pinecone CEO Edo Liberty：RAG 架构如何改进搜索",
+"desc": "Pinecone CEO Edo Liberty 与 Elad、Sarah 聊 RAG 架构如何改进语义搜索，让企业把数据向量化后得到更准确的回答。"
+},
+"f3dc9d2a-cb97-11ee-ae4e-9b2548e60ed4": {
+"zh": "Notion CEO Ivan Zhao：RAG 是做出更聪明生产力工具的关键",
+"desc": "Notion 联合创始人兼 CEO Ivan Zhao 与 Sarah、Elad 聊问答界面与日历功能，以及 RAG 模型如何改善知识检索体验。"
+},
+"8c30cd18-c5e3-11ee-b788-9368d6a483eb": {
+"zh": "Stripe 如何从内部构建 AI 产品：非 AI 公司的优先级与方法",
+"desc": "Stripe 信息主管 Emily Glassberg Sands 讲述这家非 AI 公司如何筛选 AI 项目、用大模型服务商家与内部团队。"
+},
+"49f8053e-bfa2-11ee-9a6d-0f89ccd6b286": {
+"zh": "Shopify 核心产品副总裁谈电商 AI Copilot：从商品描述到搜索",
+"desc": "Shopify 核心产品副总裁 Glen Coates 介绍新 AI 功能，如何帮商家写商品描述、给营销建议并改进搜索。"
+},
+"347c8260-ba7b-11ee-bffc-e3a41e773ddc": {
+"zh": "Covariant CEO Peter Chen：用自适应 AI 机器人建未来工厂",
+"desc": "Covariant 联合创始人兼 CEO Peter Chen 讲述 AI 机器人如何学习物理世界任务，改变制造与物流。"
+},
+"fc2af4fe-b576-11ee-a453-e3fb3e0fcf0f": {
+"zh": "Sourcegraph CTO Beyang Liu：AI 协同编程与 Cody 助手",
+"desc": "Sourcegraph 联合创始人兼 CTO Beyang Liu 谈 AI 编程助手 Cody，如何减少开发重复劳动、提升代码准确性。"
+},
+"ca2fdb90-b02b-11ee-ab13-6327977a4e04": {
+"zh": "No Priors 2023 年度精选：塑造 AI 认知的关键观点回顾",
+"desc": "No Priors 回顾 2023 年节目精华，精选 Ilya Sutskever、Reid Hoffman 等嘉宾关于 AI 的重要观点。"
+},
+"b1ae8e80-9f6f-11ee-b956-27ba573057d9": {
+"zh": "Reid Hoffman：AI 乐观主义的理由与反对放缓创新",
+"desc": "LinkedIn 与 Inflection AI 联合创始人 Reid Hoffman 谈为何 AI 乐观主义并非盲目，并反对以安全为名减慢创新。"
+},
+"a3cd66e4-9a2c-11ee-bfe7-b3d993e3ee52": {
+"zh": "前 Square CEO Alyssa Henry：AI 如何帮助小企业主",
+"desc": "前 Square CEO Alyssa Henry 与 Sarah、Elad 聊 AI 工具如何帮小企业主管理业务，把精力放回热爱的事。"
+},
+"7bb6a3d4-8968-11ee-9779-1308b1f271d3": {
+"zh": "Salesforce AI CEO Clara Shih：AI 成为企业软件新界面",
+"desc": "Salesforce AI CEO Clara Shih 谈 Einstein GPT 与企业 AI 演进，以及 AI 如何改变企业客户的交互方式。"
+},
+"64b0d176-8f32-11ee-ae68-934dee34f467": {
+"zh": "OpenAI 高层震荡、新扩散模型与 Q* 猜想：主播圆桌",
+"desc": "Sarah 与 Elad 讨论 OpenAI 领导层变动背后的治理启示，以及 Pika Labs 新产品和 Q* 引发的猜测。"
+},
+"3fdbdbda-847d-11ee-91b0-87b83c21e6eb": {
+"zh": "Imbue 联合创始人：会推理与写代码的 AI Agent 之路",
+"desc": "Imbue 联合创始人 Kanjun Qiu 与 Josh Albrecht 谈如何定义推理、专用与通用 Agent，以及构建可靠 AI Agent。"
+},
+"cd2897b0-7ead-11ee-b0ec-47ebe8101583": {
+"zh": "Mistral AI CEO Arthur Mensch：Mistral 7B 与开源大模型革命",
+"desc": "Mistral AI 联合创始人兼 CEO Arthur Mensch 谈开源为何可能赢得 AI 竞争、Mistral 7B 与巨额种子轮融资。"
+},
+"d94bc872-7977-11ee-8fd2-f394b99d37f6": {
+"zh": "OpenAI 联合创始人 Ilya Sutskever：什么是数字生命",
+"desc": "OpenAI 联合创始人兼首席科学家 Ilya Sutskever 谈 GPT 涌现能力、token 稀缺、AI 安全与数字生命前景。"
+},
+"76a5700c-73e5-11ee-ab55-cfd2982c0b8a": {
+"zh": "AI时代网络安全：Material Security联合创始人谈威胁、机会与政府角色",
+"desc": "Material Security 联合创始人 Ryan Noon 谈企业如何用 LLM 防御邮件攻击、AI 黑客威胁及政府在网络安全中的角色。"
+},
+"04202c38-6e78-11ee-8c1e-2f931a942450": {
+"zh": "谷歌云如何落地企业 AI：Kawal Gandhi 谈 TPU、内部应用与智能邮件",
+"desc": "谷歌云 CTO 办公室生成式 AI 负责人 Kawal Gandhi 与 Sarah Guo、Elad Gil 讨论企业 AI 投资、TPU 重要性及谷歌内部 AI 应用。"
+},
+"218b02c2-6642-11ee-8f3a-6ff599b4650f": {
+"zh": "从应用到套件再到平台：HubSpot 联合创始人谈 AI 时代规模化创新",
+"desc": "HubSpot 联合创始人 Brian Halligan 与 Sarah Guo 聊品类创建、入站营销、从应用到平台扩张，以及大公司如何保持创新。"
+},
+"aa832800-6356-11ee-b894-5b239242b5e9": {
+"zh": "模型质量、微调与开源生态：Meta 赞助开源模型意味着什么",
+"desc": "Sarah Guo 与 Elad Gil 讨论模型质量提升路径、微调与 RAG、RLHF/RLAIF 反馈系统，以及 Meta 对开源模型生态的赞助。"
+},
+"35ebaea4-5db6-11ee-822a-f7a83c475e86": {
+"zh": "如果 DNA 是代码，AI 能写吗：Ginkgo 谈细胞编程与合成生物学",
+"desc": "Ginkgo Bioworks 联合创始人兼 CEO Jason Kelly 与 Sarah Guo、Elad Gil 聊用 AI 与合成生物学编程细胞、应对疫情并加速药物食品生产。"
+},
+"81b62fae-5874-11ee-bd13-cba2975c8fac": {
+"zh": "Replit 的 AI 工具如何改变软件开发：联合创始人谈 Ghostwriter 与 Agent",
+"desc": "Replit 联合创始人兼 CEO Amjad Masad 与 Sarah Guo、Elad Gil 讨论 AI 如何改变软件工程、所需基础设施、开源模型与 AI Agent 前景。"
+},
+"a7cb0f76-52b0-11ee-972c-8b39924da1d4": {
+"zh": "AI 与区块链的交汇：NEAR 创始人 Illia Polosukhin 谈 Agent 与去中心化数据标注",
+"desc": "NEAR 协议联合创始人、Transformer 论文作者 Illia Polosukhin 与 Sarah Guo、Elad Gil 聊加密与 AI 结合、AI Agent 和对齐问题。"
+},
+"760322e6-4d13-11ee-b0ae-eb2a94e3e330": {
+"zh": "全球最大 AI 处理器：Cerebras CEO 谈 GPU 短缺与加速器市场替代方案",
+"desc": "Cerebras 联合创始人兼 CEO Andrew Feldman 与 Sarah Guo、Elad Gil 讨论餐盘大小的芯片、英伟达替代方案、本地模型与加速器市场预测。"
+},
+"91082862-474a-11ee-b459-bf00664aa368": {
+"zh": "前端开发者的 AI 超能力：Vercel 创始人谈 AI SDK、模板与前端优先开发",
+"desc": "Vercel 创始人兼 CEO Guillermo Rauch 与 Sarah Guo、Elad Gil 聊 AI SDK 和模板，以及如何让每个前端工程师轻松构建 AI 应用。"
+},
+"086514f4-4289-11ee-b61b-933791f4bc9c": {
+"zh": "AI 驱动的生物软件：Inceptive CEO 谈深度学习如何拓展 RNA 与 mRNA 疗法",
+"desc": "Inceptive 联合创始人兼 CEO Jakob Uszkoreit 与 Sarah Guo、Elad Gil 讨论深度学习如何拓展 RNA 与 mRNA 药物，以及生物软件的未来。"
+},
+"80de616c-3c6a-11ee-83da-03a4840b9975": {
+"zh": "每个孩子的 AI 导师：Khan Academy 创始人谈个性化学习与 Khanmigo",
+"desc": "Khan Academy 创始人兼 CEO Sal Khan 与 Sarah Guo、Elad Gil 聊 AI 导师如何改变教育、个性化学习与 Khanmigo 的实践。"
+},
+"214b535c-3717-11ee-99ec-4b9d9e85962c": {
+"zh": "听众问答：2024 科技市场预测、GPU 短缺长期影响与 AI Agent 能否带来幸福",
+"desc": "Sarah Guo 与 Elad Gil 回答听众提问，聊 2024 科技市场、估值走向、GPU 短缺长期影响，以及 AI Agent 与幸福的关系。"
+},
+"acb46b5c-31b0-11ee-b054-b7627d1482e5": {
+"zh": "Weights & Biases CEO Lukas Biewald 谈机器学习开发工具的痛点与演进",
+"desc": "Weights & Biases CEO Lukas Biewald 与 Sarah Guo、Elad Gil 聊 ML 开发工具如何推动能力进步，以及 LLM 在 ML 工程十五年演进中的位置。"
+},
+"622526b4-2bff-11ee-ae86-272bf114200b": {
+"zh": "Palantir CTO Shyam Sankar 谈 AI 如何重塑国防与关键任务系统",
+"desc": "Palantir CTO Shyam Sankar 与 Sarah Guo、Elad Gil 讨论数据整合为何是 AI 国防应用的基础，以及大模型在高风险任务中的可行性与限制。"
+},
+"ab708592-267e-11ee-ab01-932a255c0929": {
+"zh": "Meta 的 Devi Parikh 谈视频与多模态生成式 AI 的研究难点及逼真 4D 的时间表",
+"desc": "Meta 生成式 AI 研究总监 Devi Parikh 与 Sarah Guo、Elad Gil 聊 AI 视频生成与编辑的技术瓶颈、多模态研究进展以及逼真 4D 内容的实现路径。"
+},
+"080abfac-1621-11ee-ac89-93f5585ab7cd": {
+"zh": "Snowflake CEO Frank Slootman 谈把 AI 带入数据云",
+"desc": "Snowflake CEO Frank Slootman 与 Sarah Guo、Elad Gil 聊数据云与 AI 的结合、企业软件规模化经验，以及他带领 ServiceNow 等公司的经历。"
+},
+"d0871faa-107e-11ee-ae53-e70e5376600c": {
+"zh": "Instacart CEO Fidji Simo 谈 AI 驱动的电商与从 Facebook 到战时 CEO 的历程",
+"desc": "Instacart CEO Fidji Simo 与 Sarah Guo、Elad Gil 聊 AI 电商策略、LLM 与以往机器学习浪潮的差异，以及她执掌 Facebook 应用和应对危机的经历。"
+},
+"525c7058-0afc-11ee-9963-9b702a4ba072": {
+"zh": "Datadog 联合创始人 Olivier Pomel 谈 AI 生成代码时代可观测性的走向与 DevOps 中的 AI",
+"desc": "Datadog 联合创始人兼 CEO Olivier Pomel 与 Sarah Guo、Elad Gil 聊公司创业与平台策略、切入安全领域，以及 AI 在 DevOps 与可观测性中的潜力。"
+},
+"ad901d70-0558-11ee-afd2-6757216d449c": {
+"zh": "听众问答：AI 常见误解、监管现实、无限上下文、巨头 AI 落地与创业想法",
+"desc": "Sarah Guo 与 Elad Gil 回答听众提问，涉及 AI 误解、核能式监管类比、更大上下文窗口的影响、开发者效率、巨头 AI 产品发布与创业方向。"
+},
+"ffd8a0da-0002-11ee-b601-8fb0aafc182c": {
+"zh": "Anduril CEO Brian Schimpf 谈 AI 与国防科技、无人机和自动驾驶",
+"desc": "Anduril 联合创始人兼 CEO Brian Schimpf 与 Sarah Guo、Elad Gil 聊国防科技中的 AI 应用、大型无人潜航器等自主系统，以及他的创业与技术经历。"
+},
+"bc4793b6-f9c3-11ed-90b4-9feb7ba1bee9": {
+"zh": "微软 CTO Kevin Scott 谈全力投入 AI 以及 AI 对就业的积极影响",
+"desc": "微软 CTO Kevin Scott 与 Sarah Guo、Elad Gil 聊他的成长经历、微软与 OpenAI 的合作、Copilot 产品布局，以及 AI 对就业的正面作用。"
+},
+"659f2174-f50d-11ed-9178-e3de3950219a": {
+"zh": "Google Research 的 Karan Singhal 谈生物医学 AI 与 Med-PaLM 2 的安全性",
+"desc": "Google Research 软件工程师 Karan Singhal 与 Sarah Guo、Elad Gil 聊医疗 AI 的安全要求、Med-PaLM 2 的评估方法及其辅助科研流程的潜力。"
+},
+"aea7b08a-ef99-11ed-8466-af5d66b6c4c0": {
+"zh": "DeepMind 与 Inflection 创始人 Mustafa Suleyman 谈个人 AI 是否会人人都有",
+"desc": "Inflection CEO、DeepMind 联合创始人 Mustafa Suleyman 与 Sarah Guo、Elad Gil 聊深度强化学习历程、AI 政策，以及个人 AI 助手 Pi 的设计思路。"
+},
+"61905d08-ea06-11ed-9b26-f7e846f7f9d6": {
+"zh": "Google Brain 高级研究科学家 Kelvin Guu 谈如何个性化 AI 模型",
+"desc": "Google Brain 高级研究科学家 Kelvin Guu 与 Sarah Guo、Elad Gil 聊检索、记忆与把模型作为推理引擎访问外部数据，作为预训练和微调之外的个性化路径。"
+},
+"339f0cc8-e470-11ed-a7b0-4b281a23243b": {
+"zh": "听众问答：AI 投资热度、基础模型、监管与创业机会",
+"desc": "Sarah 与 Elad 回答听众提问，聊开源模型演进、AI 监管、投资热度与创业机会，以及 AI 对药物研发的影响。"
+},
+"b55ed2cc-defb-11ed-851c-2b7484beaba0": {
+"zh": "英伟达创始人黄仁勋：AI 革命背后的计算平台与 GPU",
+"desc": "Sarah 与 Elad 在英伟达圣克拉拉总部采访黄仁勋，聊 GPU 如何成为 AI 生态的算力底座，以及公司的长期判断。"
+},
+"9a783e18-d99b-11ed-a4a4-e7c71c8b5273": {
+"zh": "Character.AI 创始人沙泽尔：AI 虚拟角色与聊天机器人",
+"desc": "Character.AI 创始人 Noam Shazeer 聊他参与发明 Transformer 的经历、AI 聊天产品的演进与虚拟角色的未来。"
+},
+"855c30d8-d3ed-11ed-a569-838faa995981": {
+"zh": "Databricks CTO 谈小模型：几十美元训出 Dolly 的意义",
+"desc": "Databricks CTO Matei Zaharia 聊开源模型 Dolly：几十美元、几小时就能训出指令跟随模型，小模型为何重要。"
+},
+"99c4ddc4-ce91-11ed-840f-8b5ea6d8b8b6": {
+"zh": "GitHub Copilot 首席架构师：AI 编程之后还有什么",
+"desc": "GitHub Copilot 首席架构师、Minion.AI 创始人 Alex Graveley 聊 AI 如何改变程序员的工作与下一个产品方向。"
+},
+"a201e4bc-c8e9-11ed-836f-8315a882537a": {
+"zh": "Perplexity 创始人：从搜索引擎到答案引擎的转变",
+"desc": "Perplexity 联合创始人 Aravind Srinivas 与 Denis Yarats 聊对话式搜索如何给出可信答案，以及答案引擎的未来。"
+},
+"aeffc316-c379-11ed-b44a-07e977512610": {
+"zh": "Neeva 创始人：LLM 时代，搜索引擎为何可能被颠覆",
+"desc": "Neeva 联合创始人、前谷歌高管 Sridhar Ramaswamy 聊 LLM 冲击下搜索引擎与广告模式的变化，以及创业机会。"
+},
+"744fb684-bdf9-11ed-b880-0ba3d247c44c": {
+"zh": "斯坦福 Percy Liang：大模型时代学术界该扮演什么角色",
+"desc": "斯坦福教授 Percy Liang 聊大模型时代的训练成本、模型评测、对齐研究与学术界能做什么、该怎么做。"
+},
+"bb5ac688-b884-11ed-8191-bb0c0173a16f": {
+"zh": "Insitro 创始人 Koller：用 AI 让药物研发少走弯路",
+"desc": "Insitro 创始人、AI 学者 Daphne Koller 聊机器学习如何降低新药研发成本、提高成功率，以及生物学的数据难题。"
+},
+"8a895dc4-b2fa-11ed-afe4-7bc1b21cc7b5": {
+"zh": "Hugging Face 创始人：开源为何是机器学习的未来",
+"desc": "Hugging Face CEO Clem Delangue 聊公司从表情包应用转向机器学习社区，以及开源模型生态为何重要。"
+},
+"c298f94a-af26-11ed-b4a6-cf8d27504275": {
+"zh": "Zipline 创始人：用无人机送血的全球最大自主配送系统",
+"desc": "Zipline CEO Keller Rinaudo Cliffton 讲述创业故事：如何用自主无人机为全球医院配送血液、疫苗等医疗物资。"
+},
+"980e9d92-ad78-11ed-bdcf-13c266b3691d": {
+"zh": "Stability AI 创始人：小模型能否超越大模型，AI 如何普惠",
+"desc": "Stability AI 创始人 Emad Mostaque 聊 Stable Diffusion 的开源生态、AI 普惠，以及小模型能否追上大模型。"
+},
+"96b3c6b2-a7e1-11ed-ba83-930d4742fe77": {
+"zh": "Runway 创始人谈 AI 内容创作：生成式视频如何进入专业工作流",
+"desc": "艺术家兼开发者 Cristobal Valenzuela 讲述 Runway 如何把生成式图像与视频，从好玩玩具变成专业创作者的实用工具。"
+},
+"f245b512-a291-11ed-ad0b-23c0517faf8b": {
+"zh": "Meta 研究科学家 Noam Brown 谈 Cicero：会谈判、撒谎、结盟的 AI 意味着什么",
+"desc": "Meta 研究科学家 Noam Brown 讲述 Cicero 如何在策略游戏 Diplomacy 中与人类谈判结盟，以及这对 AGI 研究的意义。"
+},
+"9c8dd6d2-a290-11ed-80da-7f7f8f0738fe": {
+"zh": "No Priors 开播：Sarah Guo 与 Elad Gil 聊 AI 将如何重塑未来十年",
+"desc": "Sarah Guo 与 Elad Gil 推出新播客 No Priors，谈他们为何关注 AI 全栈，以及未来十年人类与 AGI 的可能关系。"
+}
+}
