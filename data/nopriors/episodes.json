@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "1b967280-ce7b-11f1-8a29-072c10b8d7bc",
+   "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+   "date": "2026-10-23",
+   "duration": 2483,
+   "description": "In the transition to the agentic web, security has become an afterthought. Now, organizations are racing to figure out what AI security means, and how to keep their data safe. Live from Cloudflare Connect, Sarah Guo sits down with Cloudflare CTO Dane Knecht to discuss the changing attacker landscape, and how his company is allocating its engineering resources to meet this emerging security challenge. Dane explains how enterprises that have moved away from castle-and-moat infrastructure to more of a zero trust infrastructure for security are in better positions than those who haven’t. He also discusses the challenges of patching 70 years of software and why the software development lifecycle will need to change for security for the agentic web, why he sees token spend in the next 18 months primarily going towards security rather than engineering, how the current web is in a ‘messy middle’ state where humans and agents are riding the same ‘rails’ on the internet, Cloudflare’s conference monetization gateway release as well as its Signals project with OpenAI, the rationale behind the release of Cloudflare OS, and the thinking behind a recent company restructuring. Plus, why Cloudflare hired one thousand interns, and why curiosity about AI is required to be successful at Cloudflare. \n\nSign up for new podcasts every week. Email feedback to show@no-priors.com\n\nFollow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Cloudflare | @dok2001\n\nChapters:\n\n00:00 – Trailer\n\n00:55 – Cloudflare CTO Top Priorities\n\n05:03 – Today’s Attacker Landscape\n\n06:16 – State of Internet Infrastructure\n\n07:31 – Shift Towards Security Spend\n\n08:39 – Road to Better Software and Internet Security\n\n09:50 – Building Secure Production Software\n\n11:41 – Reducing Surface Area\n\n12:54 – Near Future of the Web\n\n17:27 – Monetization and Signals \n\n19:13 – Success for Content Creators \n\n20:07 – Workplace OS and Use Cases\n\n24:07 – Restructuring for AI-First\n\n27:11 – Token Budgeting\n\n29:32 – Cloudflare’s Intern Strategy\n\n33:39 – Importance of Curiosity\n\n35:29 – Attacking the Legacy Software Security Problem\n\n37:08 – Engineering Team Prioritization\n\n38:25 – Open vs. Closed Models\n\n39:43 – Democratizing Security for Everyone\n\n41:29 – Conclusion",
+   "audio": "https://traffic.megaphone.fm/PDP2314551616.mp3",
+   "link": "",
+   "image": "https://megaphone.imgix.net/podcasts/1b967280-ce7b-11f1-8a29-072c10b8d7bc/image/8b41de8fa8c3e6597442c4ff909aa7f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": 184,
+   "ytId": null
+  },
+  {
    "id": "c69c028a-cdc7-11f1-a97a-77799e86d8ea",
    "title": "The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents",
    "date": "2026-10-22",
