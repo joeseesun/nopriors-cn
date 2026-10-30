@@ -4,19 +4,19 @@
 
 ![No Priors 中文精读首页](docs/screenshots/home.png)
 
-> 把 No Priors 全部 185 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 185 篇 AI 改写的中文长文精读。
+> 把 No Priors 全部 186 期节目做成一个可以认真读的中文站：每期一个页面，中文标题与简介、节目音频与视频、英文文稿，以及 186 篇 AI 改写的中文长文精读。
 >
-> A Chinese reading companion for **No Priors: Artificial Intelligence | Technology | Startups** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 185 episodes so far) a long-form Chinese deep read.
+> A Chinese reading companion for **No Priors: Artificial Intelligence | Technology | Startups** — every episode gets its own page with a Chinese title and summary, audio, video, transcript, and (for 186 episodes so far) a long-form Chinese deep read.
 
 [**在线访问 nopriors.qiaomu.ai**](https://nopriors.qiaomu.ai/) · [RSS 全文订阅](https://nopriors.qiaomu.ai/feed.xml) · [单集目录](https://nopriors.qiaomu.ai/archive/) · [llms.txt](https://nopriors.qiaomu.ai/llms.txt) · [MIT License](LICENSE)
 
-**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 185 个单集页 · 线上 https://nopriors.qiaomu.ai/ 已部署
+**已验证：** `python3 scripts/sitegen/build.py` 本地完整构建 186 个单集页 · 线上 https://nopriors.qiaomu.ai/ 已部署
 
 ## 这是什么
 
 No Priors 由 Conviction 创始人 Sarah Guo 与连续创业者、投资人 Elad Gil 共同主持。两人都是深耕 AI 的投资人，每期与前沿实验室掌门人、明星创业者对话，讨论大模型走向、创业机会与技术判断，信息密度高、观点直接。
 
-这个仓库是它的非官方中文站点 **[nopriors.qiaomu.ai](https://nopriors.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、185 期中文标题翻译和 185 篇中文精读。
+这个仓库是它的非官方中文站点 **[nopriors.qiaomu.ai](https://nopriors.qiaomu.ai/)** 的全部源码与中文内容：一个零依赖的静态站生成器，加上节目元数据、186 期中文标题翻译和 186 篇中文精读。
 
 ## 核心能力
 
@@ -103,8 +103,8 @@ scripts/sitegen/static/        共用前端脚本、结构样式与各站主题�
 
 **No Priors 中文精读** is an unofficial Chinese reading companion for *No Priors: Artificial Intelligence | Technology | Startups* (hosted by Sarah Guo & Elad Gil), live at **https://nopriors.qiaomu.ai/**.
 
-- **185 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
-- **185 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
+- **186 episodes**, each with a Chinese title and summary, audio player with resume, YouTube embed, and English transcript where available.
+- **186 long-form Chinese deep reads** with a magazine-grade reading experience: section numbering, pull quotes, drop caps, a reading-settings panel (3 themes, 5 open-source Chinese fonts, size / leading / measure / indent), a centered table of contents and reading progress.
 - **Search** with normalization, multi-term matching, ranking and highlighting; **continue listening / reading**; **full-text RSS**.
 - **SEO / GEO**: server-rendered first screen, `Article` + `PodcastEpisode` JSON-LD, a Markdown version of every deep read, `llms.txt`, sitemap, AI crawlers welcome.
 - **Share cards** generated per episode (face-centered portrait crops, punctuation-aware balanced title wrapping), full **PWA** with offline reading, custom 404 and offline pages.

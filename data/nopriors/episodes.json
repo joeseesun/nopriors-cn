@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "060e3c46-d339-11f1-a994-87ae12352fb9",
+   "title": "Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
+   "date": "2026-10-29",
+   "duration": 2285,
+   "description": "What happens when you put code-generation agents in the hands of enterprise IT teams? With Serval, you get a system where it's easy for everyone to be a builder. Sarah Guo and Elad Gil sit down with Serval co-founder and CEO Jake Stauch to analyze his company’s direct challenge to ServiceNow as the enterprise automation and service management system of record. Jake explains that by building an AI platform for enterprise IT departments with Serval, users can safely build while still safeguarding permissions by strict deterministic approvals and an audit trail. He also talks about ProServal, the company’s team that embeds automation engineers directly with customers in order to provide ongoing support and service. Jake also discusses how AI was the big unlock to taking on ServiceNow, why he’s betting on coding agents getting even better, why consumer is a window into what will happen next in enterprise and why the SaaS-pocalypse might look more like a consolidation, why background agents are still a moonshot in enterprise software, and the importance of hiring product-oriented engineers.\n\nSign up for new podcasts every week. Email feedback to show@no-priors.com\n\nFollow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @jakeserval | @getserval\n\nChapters:\n\n00:47 – Jake Stauch Introduction and Serval’s Background \n\n03:00 – Expanding Coding Agents Beyond Engineers\n\n04:40 – Limitations with Personal Agents in Enterprise\n\n06:29 – Deploying Serval Effectively in Large Orgs \n\n07:55 – Day 1 Ambition and Attacking Enterprise Systems of Record\n\n09:51 – Taking on ServiceNow with Workflow Automation Platform\n\n11:01 – Betting on the Evolution of Coding Agents and Building Guardrails in Enterprise\n\n13:48 – Big Risks, Big Rewards, and Big Predictions for Serval and Coding Agents\n\n16:40 – Adopting Different Sets of Building Principles at an Enterprise Level\n\n20:49 – Token Maxing, Long-Term Budget Impacts, and ROI\n\n22:39 – The SaaS-pocalypse and SaaS vs. AI\n\n24:39 – The Mental Model for Delivering Platform-Level Power to the IT User at Enterprise\n\n26:43 – Building Automations with Catalyst and Raising Technical Competence\n\n28:55 – The Next Wave: Background Agents and Autonomy in Enterprise\n\n32:23 – Hiring Velocity and Unlimited Ambition at Serval\n\n34:17 – Keeping Pace with Customers and Fundamental Shifts in Product Function\n\n37:05 – Conclusion",
+   "audio": "https://traffic.megaphone.fm/PDP1665700091.mp3",
+   "link": "",
+   "image": "https://megaphone.imgix.net/podcasts/060e3c46-d339-11f1-a994-87ae12352fb9/image/8a8b249284b7c04cd69602851a951b06.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": null,
+   "ytId": null
+  },
+  {
    "id": "1b967280-ce7b-11f1-8a29-072c10b8d7bc",
    "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
    "date": "2026-10-23",

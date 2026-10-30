@@ -738,5 +738,9 @@
 "1b967280-ce7b-11f1-8a29-072c10b8d7bc": {
 "zh": "Cloudflare CTO 谈 Agentic Web 安全：降低防护门槛，应对攻击者新格局",
 "desc": "Cloudflare CTO Dane Knecht 与 Sarah Guo 讨论 Agentic Web 时代的安全缺口、攻击者变化及工程资源如何转向 AI 安全。"
+},
+"060e3c46-d339-11f1-a994-87ae12352fb9": {
+"zh": "Serval CEO 谈编码 Agent 挑战 ServiceNow",
+"desc": "Serval CEO Jake Stauch 谈编码 Agent 让企业 IT 团队自建系统并挑战 ServiceNow"
 }
 }
