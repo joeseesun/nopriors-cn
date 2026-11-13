@@ -9,6 +9,18 @@
  },
  "episodes": [
   {
+   "id": "c9a0c39e-de2a-11f1-9237-d39059052d4c",
+   "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+   "date": "2026-11-12",
+   "duration": 2355,
+   "description": "Drug discovery and development has long relied on expensive, time-consuming empirical trial and error. By shifting the discovery process onto computers, Isomorphic Labs wants to fundamentally change medicine from a process of discovery to one of precision engineering. Elad Gil sits down with Isomorphic’s president Max Jaderberg to discuss his vision for using predictive AI models to achieve experimental accuracy. Max details how the success of AlphaFold provided the first proof of concept that a deep learning model could generalize in the field of biology, and how an AI model’s compounding of learnings allows it to achieve generalizability with scale, thus greatly increasing the probability of success as well as speed in real world clinical trials. He also talks about evolving past the need for animal testing through in-silico models, Isomorphic’s focus on developing drug design engines that are agnostic of disease area, target class, and modality, why accurate molecule engineering unlocks the potential for multidrug cocktails that span complex biological pathways, and how he believes AI molecule optimization will improve both human lifespan and healthspan.\n\nSign up for new podcasts every week. Email feedback to show@no-priors.com\n\nFollow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MaxJaderberg | @IsomorphicLabs\n\nChapters:\n\n00:00 – Trailer\n\n00:45 – Max Jaderberg Introduction\n\n01:24 – Isomorphic Origins\n\n05:23 – Drug Discovery Stagnation\n\n11:49 – Hiring at Isomorphic\n\n14:35 – Bringing Drug Discovery Onto Computers\n\n19:31 – Isomorphic’s Datasets\n\n20:30 – Rethinking Endpoints\n\n22:50 – External vs. Internal Dependences\n\n23:57 – Automating Biologic Labs\n\n26:22 – Internal Development vs. Partnerships\n\n27:19 – Areas of Human Health Focus \n\n29:21 – Multidrug Approaches\n\n32:17 – Risk Appetite Variation\n\n34:26 – Disease Treatment Outlook\n\n35:42 – Human Longevity and Drug Development\n\n39:16 – Conclusion",
+   "audio": "https://traffic.megaphone.fm/PDP6854771088.mp3",
+   "link": "",
+   "image": "https://megaphone.imgix.net/podcasts/c9a0c39e-de2a-11f1-9237-d39059052d4c/image/fb88dadf3fa57a333b9b7ec6a34cbfcb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "epnum": 159,
+   "ytId": null
+  },
+  {
    "id": "03f99d40-d8c2-11f1-9c96-7b13ace0b070",
    "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
    "date": "2026-11-05",
